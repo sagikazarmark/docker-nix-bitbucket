@@ -1,4 +1,4 @@
-FROM nixos/nix:2.11.1
+FROM nixos/nix:2.12.0
 
 # Install git
 RUN set -x && \
